@@ -2,7 +2,7 @@
   "name": "first",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vnshanmukh.github.io/NameSuggestion/",
+  "homepage": "http://vnshanmukh.github.io/NameIt/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.11.9",
