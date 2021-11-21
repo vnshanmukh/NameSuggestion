@@ -2,7 +2,7 @@
 
 A simple Web application suggestions for your startup by providing the key words of your startup.
 
-## How to it run locally
+## How to run it locally
 
 Clone the repository.
 ```
