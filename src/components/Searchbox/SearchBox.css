@@ -10,7 +10,7 @@
   border-width: 0px;
   background: #a592f2;
   color: aliceblue;
-  border-radius: 50px;
+  border-radius: 51px;
   box-shadow: 0 0 15px rgba(255, 255, blue, 0.5);
 }
 .search-input::placeholder {
