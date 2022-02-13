@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/namesuggestion:$(date +%s)
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/namesuggestion:${{ steps.date.outputs.date }}
